@@ -1,8 +1,6 @@
 impress.js
 ============
 
-[![CircleCI](https://circleci.com/gh/impress/impress.js.svg?style=svg)](https://circleci.com/gh/impress/impress.js)
-
 It's a presentation framework based on the power of CSS3 transforms and
 transitions in modern browsers and inspired by the idea behind prezi.com.
 
